@@ -1,0 +1,96 @@
+Season,City,Date,Team1,Team2,Toss_Winner,Toss_Decision,Result,DL_Applied,Winner,Win_By_Runs,Win_By_Wickets,Player_of_the_Week
+2020,Hyderabad,28-04-2021,Rajasthan Royals,Lucknow Super Giants,Delhi Capitals,field,tie,1,Rajasthan Royals,8,4,Hardik Pandya
+2022,Delhi,01-07-2021,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,tie,0,Rajasthan Royals,2,3,MS Dhoni
+2020,Ahmedabad,10-08-2022,Royal Challengers Bangalore,Delhi Capitals,Lucknow Super Giants,bat,tie,0,Chennai Super Kings,97,2,Hardik Pandya
+2022,Kolkata,15-08-2020,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,no result,1,Royal Challengers Bangalore,64,5,Virat Kohli
+2019,Jaipur,25-08-2023,Sunrisers Hyderabad,Chennai Super Kings,Gujarat Titans,bat,no result,0,Delhi Capitals,89,9,KL Rahul
+2023,Chennai,16-11-2023,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,no result,1,Rajasthan Royals,65,7,KL Rahul
+2018,Bangalore,25-05-2023,Sunrisers Hyderabad,Rajasthan Royals,Gujarat Titans,field,normal,1,Sunrisers Hyderabad,20,7,KL Rahul
+2019,Hyderabad,17-08-2022,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,no result,1,Punjab Kings,36,3,MS Dhoni
+2018,Kolkata,20-05-2021,Lucknow Super Giants,Chennai Super Kings,Gujarat Titans,field,normal,1,Gujarat Titans,75,5,Virat Kohli
+2020,Kolkata,28-04-2022,Lucknow Super Giants,Royal Challengers Bangalore,Delhi Capitals,bat,tie,0,Royal Challengers Bangalore,5,0,Rishabh Pant
+2021,Jaipur,18-03-2020,Gujarat Titans,Punjab Kings,Delhi Capitals,field,tie,0,Sunrisers Hyderabad,98,6,Hardik Pandya
+2018,Hyderabad,28-12-2020,Rajasthan Royals,Royal Challengers Bangalore,Kolkata Knight Riders,bat,no result,0,Lucknow Super Giants,94,10,Rishabh Pant
+2019,Jaipur,10-12-2021,Punjab Kings,Gujarat Titans,Chennai Super Kings,field,no result,1,Delhi Capitals,66,3,Rohit Sharma
+2021,Bangalore,10-02-2020,Gujarat Titans,Sunrisers Hyderabad,Rajasthan Royals,field,no result,0,Gujarat Titans,17,3,MS Dhoni
+2018,Jaipur,19-03-2021,Sunrisers Hyderabad,Chennai Super Kings,Punjab Kings,bat,no result,0,Kolkata Knight Riders,63,4,Jasprit Bumrah
+2019,Jaipur,09-06-2023,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,1,Punjab Kings,58,10,Virat Kohli
+2022,Kolkata,18-04-2021,Kolkata Knight Riders,Punjab Kings,Rajasthan Royals,bat,no result,1,Gujarat Titans,19,8,Hardik Pandya
+2020,Chennai,24-09-2020,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,normal,0,Delhi Capitals,17,1,MS Dhoni
+2021,Delhi,09-04-2023,Chennai Super Kings,Kolkata Knight Riders,Rajasthan Royals,field,tie,0,Delhi Capitals,83,10,KL Rahul
+2021,Bangalore,20-09-2020,Rajasthan Royals,Gujarat Titans,Mumbai Indians,bat,normal,0,Delhi Capitals,58,2,Virat Kohli
+2020,Kolkata,11-09-2021,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,no result,0,Delhi Capitals,83,3,Hardik Pandya
+2020,Kolkata,08-04-2023,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Delhi Capitals,48,5,MS Dhoni
+2017,Hyderabad,21-11-2021,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,1,Royal Challengers Bangalore,46,1,Rohit Sharma
+2023,Ahmedabad,26-10-2021,Royal Challengers Bangalore,Kolkata Knight Riders,Delhi Capitals,bat,tie,0,Sunrisers Hyderabad,65,4,Rishabh Pant
+2022,Pune,14-04-2022,Royal Challengers Bangalore,Mumbai Indians,Delhi Capitals,bat,normal,1,Rajasthan Royals,74,3,Rishabh Pant
+2019,Hyderabad,02-03-2020,Kolkata Knight Riders,Delhi Capitals,Lucknow Super Giants,bat,normal,0,Sunrisers Hyderabad,90,0,Virat Kohli
+2021,Mumbai,13-04-2023,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,1,Kolkata Knight Riders,61,7,Rishabh Pant
+2020,Bangalore,11-10-2020,Punjab Kings,Punjab Kings,Gujarat Titans,bat,no result,0,Punjab Kings,86,10,Virat Kohli
+2023,Kolkata,27-12-2020,Rajasthan Royals,Gujarat Titans,Lucknow Super Giants,field,normal,0,Kolkata Knight Riders,94,4,Virat Kohli
+2021,Ahmedabad,13-02-2022,Punjab Kings,Gujarat Titans,Rajasthan Royals,field,normal,1,Kolkata Knight Riders,32,6,Virat Kohli
+2019,Kolkata,15-04-2021,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,tie,0,Royal Challengers Bangalore,29,0,Rishabh Pant
+2023,Jaipur,25-11-2020,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,no result,0,Delhi Capitals,67,4,KL Rahul
+2020,Hyderabad,07-03-2021,Punjab Kings,Gujarat Titans,Chennai Super Kings,field,no result,1,Royal Challengers Bangalore,52,6,Hardik Pandya
+2021,Chennai,08-08-2020,Mumbai Indians,Royal Challengers Bangalore,Delhi Capitals,field,no result,1,Gujarat Titans,36,2,Rohit Sharma
+2022,Delhi,03-08-2022,Kolkata Knight Riders,Mumbai Indians,Punjab Kings,bat,normal,0,Kolkata Knight Riders,45,9,KL Rahul
+2020,Bangalore,10-09-2021,Mumbai Indians,Delhi Capitals,Rajasthan Royals,bat,tie,0,Royal Challengers Bangalore,90,3,Hardik Pandya
+2021,Delhi,16-06-2021,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,1,Punjab Kings,34,4,MS Dhoni
+2018,Mumbai,13-11-2022,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,63,5,KL Rahul
+2019,Chennai,09-03-2020,Delhi Capitals,Mumbai Indians,Rajasthan Royals,field,no result,0,Delhi Capitals,78,6,MS Dhoni
+2022,Pune,14-07-2022,Chennai Super Kings,Delhi Capitals,Punjab Kings,bat,tie,0,Delhi Capitals,72,5,Hardik Pandya
+2023,Jaipur,03-05-2022,Mumbai Indians,Kolkata Knight Riders,Delhi Capitals,field,tie,0,Rajasthan Royals,90,7,Virat Kohli
+2022,Hyderabad,19-06-2022,Delhi Capitals,Sunrisers Hyderabad,Punjab Kings,field,normal,1,Chennai Super Kings,61,3,Rishabh Pant
+2021,Delhi,14-08-2021,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Delhi Capitals,33,5,KL Rahul
+2023,Ahmedabad,28-10-2021,Punjab Kings,Mumbai Indians,Delhi Capitals,bat,tie,0,Delhi Capitals,59,6,KL Rahul
+2022,Kolkata,21-03-2023,Mumbai Indians,Delhi Capitals,Rajasthan Royals,field,no result,1,Royal Challengers Bangalore,56,10,Virat Kohli
+2019,Chennai,02-05-2021,Delhi Capitals,Chennai Super Kings,Rajasthan Royals,bat,normal,1,Kolkata Knight Riders,64,7,Rohit Sharma
+2021,Delhi,09-09-2020,Chennai Super Kings,Mumbai Indians,Sunrisers Hyderabad,field,no result,1,Kolkata Knight Riders,52,4,Hardik Pandya
+2020,Kolkata,02-07-2021,Rajasthan Royals,Delhi Capitals,Mumbai Indians,field,tie,0,Rajasthan Royals,35,1,Virat Kohli
+2021,Bangalore,19-11-2021,Delhi Capitals,Mumbai Indians,Rajasthan Royals,field,tie,1,Punjab Kings,58,3,MS Dhoni
+2023,Hyderabad,14-09-2020,Delhi Capitals,Sunrisers Hyderabad,Mumbai Indians,bat,normal,1,Kolkata Knight Riders,82,5,KL Rahul
+2022,Hyderabad,20-08-2021,Rajasthan Royals,Sunrisers Hyderabad,Punjab Kings,bat,no result,0,Mumbai Indians,90,2,Hardik Pandya
+2021,Chennai,24-02-2022,Delhi Capitals,Chennai Super Kings,Kolkata Knight Riders,bat,no result,1,Kolkata Knight Riders,56,10,MS Dhoni
+2023,Kolkata,09-07-2022,Mumbai Indians,Delhi Capitals,Sunrisers Hyderabad,field,no result,0,Sunrisers Hyderabad,90,6,KL Rahul
+2020,Delhi,28-02-2022,Chennai Super Kings,Kolkata Knight Riders,Delhi Capitals,field,no result,0,Delhi Capitals,43,6,MS Dhoni
+2023,Hyderabad,15-03-2021,Sunrisers Hyderabad,Delhi Capitals,Chennai Super Kings,field,tie,1,Rajasthan Royals,56,7,Virat Kohli
+2021,Delhi,21-11-2020,Kolkata Knight Riders,Mumbai Indians,Chennai Super Kings,field,tie,0,Delhi Capitals,60,5,Hardik Pandya
+2022,Kolkata,08-09-2022,Chennai Super Kings,Mumbai Indians,Delhi Capitals,bat,normal,0,Delhi Capitals,34,2,Virat Kohli
+2019,Jaipur,15-05-2021,Rajasthan Royals,Punjab Kings,Mumbai Indians,field,tie,0,Punjab Kings,76,4,KL Rahul
+2020,Ahmedabad,09-09-2023,Kolkata Knight Riders,Rajasthan Royals,Lucknow Super Giants,field,no result,0,Kolkata Knight Riders,84,5,MS Dhoni
+2021,Bangalore,17-03-2022,Sunrisers Hyderabad,Chennai Super Kings,Rajasthan Royals,bat,tie,0,Royal Challengers Bangalore,92,6,Rohit Sharma
+2022,Delhi,22-10-2022,Lucknow Super Giants,Punjab Kings,Kolkata Knight Riders,field,normal,1,Lucknow Super Giants,30,4,Hardik Pandya
+2023,Pune,11-04-2023,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,1,Delhi Capitals,77,8,KL Rahul
+2020,Mumbai,18-08-2021,Mumbai Indians,Sunrisers Hyderabad,Punjab Kings,bat,tie,0,Sunrisers Hyderabad,55,2,Virat Kohli
+2022,Delhi,14-09-2022,Punjab Kings,Royal Challengers Bangalore,Lucknow Super Giants,field,no result,1,Punjab Kings,64,7,MS Dhoni
+2019,Hyderabad,03-07-2022,Rajasthan Royals,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals,28,2,Hardik Pandya
+2023,Kolkata,07-11-2023,Mumbai Indians,Kolkata Knight Riders,Chennai Super Kings,bat,no result,1,Mumbai Indians,42,6,Rishabh Pant
+2020,Jaipur,20-12-2021,Chennai Super Kings,Punjab Kings,Delhi Capitals,field,no result,0,Delhi Capitals,93,8,Rohit Sharma
+2021,Mumbai,17-01-2022,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,88,3,KL Rahul
+2022,Chennai,22-03-2023,Kolkata Knight Riders,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,tie,1,Kolkata Knight Riders,37,10,Virat Kohli
+2019,Delhi,13-05-2021,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,tie,0,Chennai Super Kings,91,5,Hardik Pandya
+2020,Bangalore,27-03-2020,Rajasthan Royals,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Sunrisers Hyderabad,48,7,MS Dhoni
+2023,Ahmedabad,05-04-2023,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,1,Rajasthan Royals,51,9,KL Rahul
+2022,Kolkata,21-12-2020,Sunrisers Hyderabad,Lucknow Super Giants,Kolkata Knight Riders,field,no result,1,Sunrisers Hyderabad,39,8,Hardik Pandya
+2021,Hyderabad,25-09-2021,Lucknow Super Giants,Sunrisers Hyderabad,Chennai Super Kings,bat,no result,0,Rajasthan Royals,33,2,Rohit Sharma
+2020,Jaipur,09-04-2022,Kolkata Knight Riders,Mumbai Indians,Delhi Capitals,field,normal,0,Punjab Kings,59,6,Rishabh Pant
+2019,Chennai,18-08-2023,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,no result,1,Lucknow Super Giants,97,5,KL Rahul
+2023,Hyderabad,14-07-2021,Rajasthan Royals,Kolkata Knight Riders,Delhi Capitals,bat,normal,0,Kolkata Knight Riders,63,2,Hardik Pandya
+2021,Ahmedabad,27-11-2021,Sunrisers Hyderabad,Punjab Kings,Delhi Capitals,field,no result,1,Delhi Capitals,58,10,Rishabh Pant
+2022,Chennai,01-02-2022,Punjab Kings,Royal Challengers Bangalore,Rajasthan Royals,bat,tie,0,Chennai Super Kings,83,7,KL Rahul
+2020,Bangalore,18-10-2022,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,no result,0,Punjab Kings,74,3,MS Dhoni
+2022,Kolkata,28-03-2023,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,1,Rajasthan Royals,65,6,KL Rahul
+2018,Mumbai,21-04-2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,tie,0,Kolkata Knight Riders,46,7,Virat Kohli
+2019,Pune,09-12-2020,Delhi Capitals,Sunrisers Hyderabad,Kolkata Knight Riders,field,no result,0,Delhi Capitals,80,10,Hardik Pandya
+2021,Ahmedabad,20-11-2022,Rajasthan Royals,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,1,Kolkata Knight Riders,72,8,KL Rahul
+2022,Bangalore,14-07-2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,no result,0,Royal Challengers Bangalore,40,9,Rohit Sharma
+2023,Hyderabad,16-08-2023,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,bat,tie,1,Kolkata Knight Riders,30,4,MS Dhoni
+2021,Pune,04-12-2023,Royal Challengers Bangalore,Delhi Capitals,Rajasthan Royals,field,no result,0,Royal Challengers Bangalore,57,5,KL Rahul
+2020,Kolkata,25-05-2023,Punjab Kings,Rajasthan Royals,Sunrisers Hyderabad,field,normal,1,Mumbai Indians,38,7,Virat Kohli
+2019,Chennai,11-11-2023,Delhi Capitals,Kolkata Knight Riders,Lucknow Super Giants,bat,normal,0,Chennai Super Kings,92,10,Rohit Sharma
+2023,Mumbai,13-09-2020,Mumbai Indians,Royal Challengers Bangalore,Chennai Super Kings,bat,tie,1,Delhi Capitals,64,2,Rishabh Pant
+2021,Jaipur,06-04-2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,no result,0,Kolkata Knight Riders,75,4,Hardik Pandya
+2022,Delhi,07-01-2022,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,tie,1,Royal Challengers Bangalore,47,6,Virat Kohli
+2020,Bangalore,21-06-2020,Sunrisers Hyderabad,Chennai Super Kings,Lucknow Super Giants,bat,no result,0,Mumbai Indians,34,5,Rohit Sharma
+2023,Pune,19-08-2022,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,tie,0,Kolkata Knight Riders,49,8,KL Rahul
+2022,Kolkata,29-03-2022,Punjab Kings,Delhi Capitals,Delhi Capitals,field,normal,1,Delhi Capitals,80,10,Virat Kohli
